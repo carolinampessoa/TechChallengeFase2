@@ -54,12 +54,7 @@ O notebook gera:
 
 ## ▶️ Como Executar
 
-1. Instale os pacotes necessários:
-```bash
-pip install numpy matplotlib
-```
-
-2. Execute o notebook:
+Execute o notebook:
 Abra `TechChallengeFase2.ipynb` com Jupyter Notebook ou Jupyter Lab e execute as células em ordem.
 
 ---
